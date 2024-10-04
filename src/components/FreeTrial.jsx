@@ -52,7 +52,7 @@ const FreeTrial = () => {
       </div>
       <div className="  flex-colum w-100 flex-center">
         <form
-          className="flex-center flex-colum boder-gray p  m-0 boder-gray"
+          className="flex-center flex-colum boder-gray p  m-0 border"
           onSubmit={handleSubmit}
         >
           <div>
