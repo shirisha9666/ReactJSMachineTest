@@ -20,8 +20,8 @@ const SocialMedia = () => {
     },
   ];
   return (
-    <div className="m-b-1rem bg-white w-100   p-1rem black bg-white">
-      <div className="flex-center flex-colum  ">
+    <div className="m-b-1rem bg-white w-100   p-1rem black bg-white flex-wrap">
+      <div className="flex-center flex-colum flex-wrap  ">
         <h1 className="fw-500 flex-wrap ">
           Have you ever posted any photo on social media?
         </h1>

@@ -29,7 +29,7 @@ const Header = () => {
         <span className="mr ml pointer">Community</span>
         <span className="mr ml pointer">Support</span>
       </div>
-      <div className="fw-500 f-1rem flex">
+      <div className="fw-500 f-1rem flex fn-1rem">
         <span
           className={`pointer mr flex-center  border-radius-6 pointer p w-100px  ${
             login === "Login" ? "bg-blue white" : "bg-white border-blue blue"
